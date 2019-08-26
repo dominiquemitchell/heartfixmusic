@@ -185,7 +185,8 @@ footer {
     padding: 10%;
   }
 
-  #mission p {
+  #mission p,
+  blockquote {
     font-size: 4vw; 
   }
 
